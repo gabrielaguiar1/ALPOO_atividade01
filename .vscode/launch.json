@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "unip.alpoo.atividade01.desafio.Principal",
+            "projectName": "atividade01"
+        },
+        {
+            "type": "java",
+            "name": "DesafioHello",
+            "request": "launch",
+            "mainClass": "unip.alpoo.atividade01.controllers.DesafioHello",
+            "projectName": "atividade01"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Atividade01Application<atividade01>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "unip.alpoo.atividade01.Atividade01Application",
+            "projectName": "atividade01",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
